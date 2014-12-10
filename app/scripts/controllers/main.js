@@ -16,34 +16,34 @@ angular.module('hoqiiApp')
     		{
     			'image': 'images/bg1.jpg',
     			'text': 'title',
-    			'title': 'Products',
+    			'title': 'Produk',
     			'description': 'Aplikasi yang dikustomisasi dan disesuaikan untuk memberikan kinerja tinggi.',
-    			'faClass': 'icon-iconmonstr-brick',
-                'link': '#mip-ed'
+    			'faClass': 'icon-dice',
+                'link': '#products'
     		},
     		{
     			'image': 'images/bg2.jpg',
     			'text': 'title',
-    			'title': 'Services',
-    			'description': 'Join development, join venture and consulting.',
-    			'faClass': 'icon-iconmonstr-sitemap',
-                'link': '#mip-ion'
+    			'title': 'Layanan',
+    			'description': 'Pengembangan bersama (joint development) atau usaha bersama (joint venture) dan konsultansi.',
+    			'faClass': 'icon-cogs',
+                'link': '#service'
     		},
     		{
     			'image': 'images/bg3.jpg',
     			'text': 'title',
-    			'title': 'Training',
-    			'description': 'Training materi kurikulum jTechnopreneur dengan Agnostic approach.',
-    			'faClass': 'icon-iconmonstr-tablet',
-                'link': '#mip-iot'
+    			'title': 'Pelatihan',
+    			'description': 'Pelatihan materi kurikulum jTechnopreneur dengan pendekatan Agnostik.',
+    			'faClass': 'icon-copy2',
+                'link': '#training'
     		},
             {
                 'image': 'images/bg4.jpg',
                 'text': 'title',
-                'title': 'Online Services',
+                'title': 'Layanan Online',
                 'description': 'Layanan online berdasarkan produk atau program di bawah Meruvian.',
-                'faClass': 'icon-iconmonstr-cloud',
-                'link': '#mip-db'
+                'faClass': 'icon-cloud',
+                'link': '#online-services'
             }
     	]
     };

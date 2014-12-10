@@ -11,17 +11,17 @@
 	{
 		"name": "Services",
 		"link": "javascript:",
-		"target": "#products"
+		"target": "#service"
 	},
 	{
 		"name": "Training",
 		"link": "javascript:",
-		"target": "#products"
+		"target": "#training"
 	},
 	{
 		"name": "Online Services",
 		"link": "javascript:",
-		"target": "#products"
+		"target": "#online-services"
 	},
 	{
 		"name": "Masuk/Daftar",
